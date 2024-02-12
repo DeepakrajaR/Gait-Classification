@@ -7,3 +7,5 @@ Dataset:
 * Kinematics_autism.xlsx
 
 The above-mentioned files are attached to this repository. Those are the data sets used for the research.
+
+The 'gait_data_collection_pipeline.py' file contains the Python code to generate an image that visualizes the steps involved in data collection. I have also attached the image in the repository.
