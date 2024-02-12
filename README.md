@@ -5,4 +5,5 @@ This study aims to diagnose any physical impairment symptoms at a very early sta
 Dataset:
 * Kinetics_autism.xlsx
 * Kinematics_autism.xlsx
+
 The above-mentioned files are attached to this repository. Those are the data sets used for the research.
